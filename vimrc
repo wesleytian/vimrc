@@ -195,8 +195,10 @@ set t_Co=256
 
 " Color scheme
 " let $NVIM_TUI_ENABLE_TRUE_COLOR=1
+" 1.2 Appearance
 set background=dark " or light
 colorscheme solarized
+
 
 
 " Numbers
